@@ -4,11 +4,11 @@
 
 ### Aspiring Cybersecurity Professional | Entry-Level Intern
 
-**#### Focus:** SOC Analysis, Network Security, and Threat Hunting.
+**Focus:** SOC Analysis, Network Security, and Threat Hunting.
 
-**##### Education:** IT Essential (CISCo),Introduction to Cybersecurity (HALOGEN ACADEMY),Cybersecurity Analyst(3MTT and NITDA).
+**Education:** IT Essential (CISCo),Introduction to Cybersecurity (HALOGEN ACADEMY),Cybersecurity Analyst(3MTT and NITDA).
 
-**###### Top Skills:** Linux (Kali), Wireshark, Nmap, SQL.
+**Top Skills:** Linux (Kali), Wireshark, Nmap, SQL.
 
-**####### Languages:** PHP, SQL.
+**Languages:** PHP, SQL.
 
